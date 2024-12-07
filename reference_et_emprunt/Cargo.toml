@@ -1,0 +1,6 @@
+[package]
+name = "referance_et_emprunt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
